@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/poke-trunfo/static/css/main.96660b2c.css",
+    "main.js": "/poke-trunfo/static/js/main.108f3128.js",
+    "static/media/img-div.png": "/poke-trunfo/static/media/img-div.3dad9526e9f228f742da.png",
+    "static/media/Pixeboy-z8XGD.ttf": "/poke-trunfo/static/media/Pixeboy-z8XGD.143c9dc71d2a56d4bc46.ttf",
+    "static/media/final-div.png": "/poke-trunfo/static/media/final-div.e352a3c5aea341e54afb.png",
+    "static/media/dmg-div.png": "/poke-trunfo/static/media/dmg-div.9bcd87af51c49ae3aae3.png",
+    "static/media/hp-div.png": "/poke-trunfo/static/media/hp-div.2f3522043ddea8545bfa.png",
+    "static/media/def-div.png": "/poke-trunfo/static/media/def-div.49fafdaeb06c59e24f9d.png",
+    "static/media/top-div-name-and-rarity.png": "/poke-trunfo/static/media/top-div-name-and-rarity.21720c2b07e3bbc199c6.png",
+    "static/media/description-div.png": "/poke-trunfo/static/media/description-div.b4a07b0f03a0c4420566.png",
+    "index.html": "/poke-trunfo/index.html",
+    "main.96660b2c.css.map": "/poke-trunfo/static/css/main.96660b2c.css.map",
+    "main.108f3128.js.map": "/poke-trunfo/static/js/main.108f3128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96660b2c.css",
+    "static/js/main.108f3128.js"
+  ]
+}
