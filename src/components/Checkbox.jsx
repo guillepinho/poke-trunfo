@@ -6,7 +6,7 @@ export class Checkbox extends Component {
     const { name, checked, onChange, hasTrunfo } = this.props;
 
     let checkboxDiv = (
-      <label htmlFor="superTrunfo" className="checkbox checkboxer">
+      <label htmlFor="superTrunfo" className="checkbox checkboxer cent">
         <input
           name={ name }
           type="checkbox"
