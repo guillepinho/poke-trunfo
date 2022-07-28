@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poke-trunfo/static/css/main.96660b2c.css",
-    "main.js": "/poke-trunfo/static/js/main.108f3128.js",
+    "main.js": "/poke-trunfo/static/js/main.527ae591.js",
     "static/media/img-div.png": "/poke-trunfo/static/media/img-div.3dad9526e9f228f742da.png",
     "static/media/Pixeboy-z8XGD.ttf": "/poke-trunfo/static/media/Pixeboy-z8XGD.143c9dc71d2a56d4bc46.ttf",
     "static/media/final-div.png": "/poke-trunfo/static/media/final-div.e352a3c5aea341e54afb.png",
@@ -12,10 +12,10 @@
     "static/media/description-div.png": "/poke-trunfo/static/media/description-div.b4a07b0f03a0c4420566.png",
     "index.html": "/poke-trunfo/index.html",
     "main.96660b2c.css.map": "/poke-trunfo/static/css/main.96660b2c.css.map",
-    "main.108f3128.js.map": "/poke-trunfo/static/js/main.108f3128.js.map"
+    "main.527ae591.js.map": "/poke-trunfo/static/js/main.527ae591.js.map"
   },
   "entrypoints": [
     "static/css/main.96660b2c.css",
-    "static/js/main.108f3128.js"
+    "static/js/main.527ae591.js"
   ]
 }
